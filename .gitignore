@@ -1,0 +1,8 @@
+videos
+logs/*
+!logs/.gitkeep
+graphs/*
+!graphs/.gitkeep
+json/*
+!json/.gitkeep
+.DS_Store
